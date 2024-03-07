@@ -1,3 +1,4 @@
 rider-2023.2.2.suprapack filter=lfs diff=lfs merge=lfs -text
 dart-3.2.2.suprapack filter=lfs diff=lfs merge=lfs -text
 edex-ui filter=lfs diff=lfs merge=lfs -text
+gnat12-12.suprapack filter=lfs diff=lfs merge=lfs -text
