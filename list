@@ -10,13 +10,11 @@ ft_nolock-1.0.suprapack
 gf2-v1.0.suprapack
 glew-2.2.suprapack
 gnat12-12.suprapack
-headmaker-2.5.suprapack
 headmaker-2.6.suprapack
 libblocksruntime-0.4.1.suprapack
 minilibx-2.3.2.suprapack
 porth-1.0.suprapack
 sfml-2.6.1.suprapack
 supra destroyer-2.1.suprapack
-supra_destroyer-2.1.suprapack
 xdotool-3.suprapack
 zoxide-0.9.2.suprapack
