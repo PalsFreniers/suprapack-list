@@ -1,0 +1,14 @@
+alire-1.2.2.suprapack the ada package manager.
+bazel-8.0.0.suprapack build and test software of any size, quickly and reliably.
+bison-3.8.2.suprapack bison is a general-purpose parser generator
+edex-ui-2.2.2.suprapack edex-ui is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
+flex-2.6.4.suprapack generates programs that perform pattern-matching on text.
+ft_nolock-1.0.suprapack a little script that helps you disable 42 ft_lock using mouse movement and xdotools
+gf2-1.0.suprapack gdb graphical framework
+headmaker-2.6.suprapack simple tool to auto generate headers for entier codebases and compile entire projects
+libblocksruntime-0.4.1.suprapack clang block runtime library
+minilibx-2.3.2.suprapack mlx42 is a performant, easy to use, cross-platform, minimal windowing graphics library to create graphical applications without having to work directly with the native windowing framework of the given operating system.
+porth-1.0.suprapack porth is a concatenative stack-oriented programming language for computers
+supra destroyer-2.1.suprapack two little script to crash a session
+xdotool-3.suprapack simulate (generate) x11 keyboard/mouse input events
+zoxide-0.9.2.suprapack zoxide is a smarter cd command, inspired by z and autojump.
