@@ -1,8 +1,6 @@
 alire-1.2.2.suprapack the ada package manager.
 bazel-8.0.0.suprapack build and test software of any size, quickly and reliably.
-bison-3.8.2.suprapack bison is a general-purpose parser generator
 edex-ui-2.2.2.suprapack edex-ui is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
-flex-2.6.4.suprapack generates programs that perform pattern-matching on text.
 ft_nolock-1.0.suprapack a little script that helps you disable 42 ft_lock using mouse movement and xdotools
 gf2-1.0.suprapack gdb graphical framework
 headmaker-2.6.suprapack simple tool to auto generate headers for entier codebases and compile entire projects
