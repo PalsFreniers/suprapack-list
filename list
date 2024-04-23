@@ -3,6 +3,7 @@ bazel-8.0.0.suprapack build and test software of any size, quickly and reliably.
 edex-ui-2.2.2.suprapack edex-ui is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
 ft_nolock-1.0.suprapack a little script that helps you disable 42 ft_lock using mouse movement and xdotools
 gf2-1.0.suprapack gdb graphical framework
+godot-4.2.2.suprapack Develop your 2D & 3D games, cross-platform projects, or even XR ideas!
 headmaker-2.6.suprapack simple tool to auto generate headers for entier codebases and compile entire projects
 libblocksruntime-0.4.1.suprapack clang block runtime library
 minilibx-2.3.2.suprapack mlx42 is a performant, easy to use, cross-platform, minimal windowing graphics library to create graphical applications without having to work directly with the native windowing framework of the given operating system.
