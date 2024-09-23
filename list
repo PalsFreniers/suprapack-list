@@ -11,3 +11,4 @@ porth-1.0.suprapack porth is a concatenative stack-oriented programming language
 supra destroyer-2.1.suprapack two little script to crash a session
 xdotool-3.suprapack simulate (generate) x11 keyboard/mouse input events
 zoxide-0.9.2.suprapack zoxide is a smarter cd command, inspired by z and autojump.
+msitools-0.1001.suprapack msitools contains a number of programs to create, inspect and extract Windows Installer
