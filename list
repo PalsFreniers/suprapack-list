@@ -1,14 +1,10 @@
-alire-1.2.2.suprapack the ada package manager.
-bazel-8.0.0.suprapack build and test software of any size, quickly and reliably.
-edex-ui-2.2.2.suprapack edex-ui is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
-ft_nolock-1.0.suprapack a little script that helps you disable 42 ft_lock using mouse movement and xdotools
-gf2-1.0.suprapack gdb graphical framework
-godot-4.2.2.suprapack Develop your 2D & 3D games, cross-platform projects, or even XR ideas!
-headmaker-2.6.suprapack simple tool to auto generate headers for entier codebases and compile entire projects
-libblocksruntime-0.4.1.suprapack clang block runtime library
-minilibx-2.3.2.suprapack mlx42 is a performant, easy to use, cross-platform, minimal windowing graphics library to create graphical applications without having to work directly with the native windowing framework of the given operating system.
-porth-1.0.suprapack porth is a concatenative stack-oriented programming language for computers
-supra destroyer-2.1.suprapack two little script to crash a session
-xdotool-3.suprapack simulate (generate) x11 keyboard/mouse input events
-zoxide-0.9.2.suprapack zoxide is a smarter cd command, inspired by z and autojump.
-msitools-0.1001.suprapack msitools contains a number of programs to create, inspect and extract Windows Installer
+alire_1.2.2_amd64-Linux.suprapack the ada package manager.
+bazel_8.0.0_amd64-Linux.suprapack build and test software of any size, quickly and reliably.
+edex-ui_2.2.2_amd64-Linux.suprapack edex-ui is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
+ft_nolock_1.0_amd64-Linux.suprapack a little script that helps you disable 42 ft_lock using mouse movement and xdotools
+gf2_1.0_amd64-Linux.suprapack gdb graphical framework
+godot_4.2.2_amd64-Linux.suprapack Develop your 2D & 3D games, cross-platform projects, or even XR ideas!
+libblocksruntime_0.4.1_amd64-Linux.suprapack clang block runtime library
+porth_1.0_amd64-Linux.suprapack porth is a concatenative stack-oriented programming language for computers
+xdotool_3_amd64-Linux.suprapack simulate (generate) x11 keyboard/mouse input events
+zoxide_0.9.2_amd64-Linux.suprapack zoxide is a smarter cd command, inspired by z and autojump.
